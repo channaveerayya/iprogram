@@ -57,7 +57,7 @@ export default class App extends Component {
             />
           </Grid>
           {compareData.length ? (
-            <Grid item style={{ marginTop: '6em' }}>
+            <Grid item style={{ marginTop: '2em' }}>
               <Typography gutterBottom variant='h5' component='h2'>
                 ComparisonTable
               </Typography>

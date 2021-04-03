@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import ImageGrid from './ImageGrid'
 import { Grid } from '@material-ui/core'
-const HEIGHT = 600
+const HEIGHT = 500
 export default class InfiniteList extends Component {
   state = {
     compareData: [],
